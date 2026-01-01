@@ -1,43 +1,39 @@
-# Hi, I'm Anjana 👋
+Hi, I'm Anjana 👋
+🎓 About Me
 
-### 🎓 About Me
-I'm an IT student specializing in **Artificial Intelligence & Machine Learning**.  
-Right now I’m building my foundation with **Python**, **HTML**, and beginner-level ML concepts.
+I'm a double major student in IT (Artificial Intelligence) & Business Information Systems.
+I build practical projects with Python, SQL, and AI, applying technology to solve real business problems.
+Currently preparing to be internship-ready with hands-on experience in data analysis, dashboards, and business intelligence.
 
----
+💻 Skills
 
-### 💻 Skills
-- **Languages:** Python, HTML  
-- **Currently Learning:** AI, Machine Learning, Data Analysis  
-- **Interests:** Automation, AI Projects, ML Models, Web Apps  
+Programming & Data: Python, SQL, Pandas, NumPy, Matplotlib/Seaborn
 
----
+Web & Tools: HTML, Streamlit, Excel, GitHub
 
-### 🚀 What I'm Working On
-- Small Python projects to improve logic  
-- Beginner AI/ML mini-projects  
-- Simple web apps using Python + HTML  
+AI & Analytics: AI fundamentals, ML basics, data visualization, KPI dashboards
 
----
+Soft Skills: Analytical thinking, problem solving, communication, time management
 
-### 🌱 My Goals
-- Build my first full AI project  
-- Learn Machine Learning step-by-step  
-- Become internship-ready 
+🚀 What I'm Working On
 
----
+Python projects & automation scripts
 
-### 📌 Featured Projects (coming soon)
-I will keep adding new projects as I learn more.
+SQL database queries & business reporting
 
----
+KPI dashboards & beginner AI/ML mini-projects
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/anjana-chaudhary-478267322/
----
+🌱 My Goals
 
-Thanks for stopping by!  
-Working consistently to grow every day 🚀
+Build my first full AI & Business Intelligence project
+
+Gain hands-on internship experience
+
+Strengthen skills in Python, SQL, and analytics
+
+📌 Featured Projects
+
+I’ll keep updating this with live projects, dashboards, and GitHub repos as I grow my portfolio.
 
 <!--
 **Anjana789-star/Anjana789-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
